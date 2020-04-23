@@ -58,7 +58,7 @@ extensions not included in B2MML, but these are few.
 
 This software has been implemented with C#/.NET. However, there is another 
 implementation in Java (see 
-https://github.com/kannisto/Cocop.MessageSerialiserBiz_java). Still, because
+https://github.com/kannisto/Cocop.MessageSerialiser.Biz_java). Still, because
 the serialisation syntax is XML, the messages do not restrict which platform to
 choose for implementation, as long as the messages comply with the
 standards-based profile. That is, you could have one application in .NET,
