@@ -74,8 +74,8 @@ This repository contains the following applications:
 Source Code and API Doc
 -----------------------
 
-* Github repo: https://github.com/kannisto/Cocop.MessageSerialiserBiz_csharp
-* API documentation: https://kannisto.github.io/Cocop.MessageSerialiserBiz_csharp
+* Github repo: https://github.com/kannisto/Cocop.MessageSerialiser.Biz_csharp
+* API documentation: https://kannisto.github.io/Cocop.MessageSerialiser.Biz_csharp
 
 
 Messages
