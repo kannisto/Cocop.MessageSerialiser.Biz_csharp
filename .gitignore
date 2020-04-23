@@ -1,0 +1,9 @@
+**/bin/*
+**/obj/*
+.vs/*
+_codegen_b2mml/b2mml/*
+_ref_xsd/*
+_testfiles_from_spec/*.xml
+MessageSerialiserBiz/XsdGen.cs
+lib/*
+packages/*
